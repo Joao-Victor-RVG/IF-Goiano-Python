@@ -1,6 +1,6 @@
 # INSTITUTO FEDERAL GOIANO - BACHARELADO EM CIENCIAS DA COMPUTAÇÃO
 <figure>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpresencial.ifgoiano.edu.br%2F&psig=AOvVaw2PBWI0FLpW5h21EQljMlZO&ust=1651600356853000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOCut_ewwfcCFQAAAAAdAAAAABAQ" alt="IF-Goiano logo">
+  <img src="#" alt="IF-Goiano logo">
   <figcaption></figcaption>
 </figure>
 
