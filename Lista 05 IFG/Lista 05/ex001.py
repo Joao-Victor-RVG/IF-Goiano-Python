@@ -22,7 +22,7 @@ while valor !=4:
     if valor ==4:
         break
 
-print(f''')
+print(f'''
 Muito Obrigado!
 Alcool: {qtd_alcool}
 Gasolina: {qtd_gasolina}

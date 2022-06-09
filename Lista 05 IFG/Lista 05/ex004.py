@@ -1,5 +1,6 @@
-x = 100
-soma = 0
+def problema4():
+    x = 100
+    soma = 0
 i = 0
 while x >= 0:
     x = int(input())
@@ -9,6 +10,7 @@ while x >= 0:
 media = soma / i
 print(f'{media:.2f}')
 
+problema4()
 
 
 
