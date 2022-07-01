@@ -5,6 +5,14 @@
 
 ---
 
+## Matéria / school subjects
+
+Algoritmos e lógica de programação de Computadores 
+
+<br>
+
+Computer programming algorithms and logic
+
 ## 🚀 Sobre / About
 
 Esse repositório armazena todos os arquivos referentes a matéria de algoritimo e lógica de programação com Python pelo IF-Goiano
@@ -26,4 +34,6 @@ This project is under the MIT license. see the file [LICENSE](.github/LICENSE.md
 [IF-Goiano Website](https://ifgoiano.edu.br/home/index.php)
 
 [YouTube Channel](https://www.youtube.com/user/ifgoiano)
+
+
 
